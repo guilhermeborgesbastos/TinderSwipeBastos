@@ -1,5 +1,5 @@
 
-# TinderSlide
+# TinderSlideCard
 Componente completo para quem precisa de um baralho de cartas dinamico e interativo para Android. Muito parecido com o que encontramos no Tinder. Código totalmente aberto para modificações e melhorias.
 
 | Gif | Video |
