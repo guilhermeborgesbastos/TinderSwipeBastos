@@ -71,9 +71,9 @@ Para alterar o angulo de rotação do card basta alterar a contante:
 Que está na linha 27 do arquivo SwipeLaunchAdapterView.java ( Veja arquivo: https://goo.gl/50faC5 ).
 Ou pode-se alterar o mesmo no XML alterando a mesma constante ROTATION_DEGREES.
 
-#### Como executar o slide do cartao programaticamente?
+#### Como executar o slide do cartão programaticamente?
 
-Para fazer com que o cartão seja removido com a animacao programaticamente basta criar o seu Listener com o seguinte código ex:
+Para fazer com que o cartão seja removido com a animação programaticamente basta criar o seu Listener com o seguinte código ex:
 
 ```
     viewHolder.btnIgnore.setOnClickListener(new View.OnClickListener() {
