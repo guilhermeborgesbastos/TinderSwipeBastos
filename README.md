@@ -13,7 +13,7 @@ Basta importar o projeto do Git para o seu editor ( Android Studio / Eclipse, et
 ## Configurações e informações úteis ##
 
 #### Populando os cartões
-No arquivo SquipeCardFragment ( Veja arquivo: https://goo.gl/sIBxC4 ), possuimos o seguinte código:
+No arquivo SquipeCardFragment.java ( Veja arquivo: https://goo.gl/sIBxC4 ), possuimos o seguinte código:
 
 ```
     //Populo o POJO com registros de teste ( Pode busca-los da sua API )
@@ -51,8 +51,8 @@ No arquivo SquipeCardFragment ( Veja arquivo: https://goo.gl/sIBxC4 ), possuimos
     notification4.setNome_estado("CA");
     recordSet.add(notification4);
 ```
-
 O código acima popula um POJO, gerando uma List<Notification> recordSet, cada instancia nesta lista será um novo Card.
+
 
 #### Quais as dependencias do gradle?
 
@@ -61,6 +61,37 @@ Para tratar a imagem utilizamos os:
     compile 'com.mikhaellopez:circularimageview:3.0.2'
     compile 'com.squareup.picasso:picasso:2.5.2'
 ```
+
+#### Como alterar o angulo de rotação do cartão?
+
+Para alterar o angulo de rotação do card basta alterar a contante:
+```
+    private float ROTATION_DEGREES = 10.f;
+```
+Que está na linha 27 do arquivo SwipeLaunchAdapterView.java ( Veja arquivo: https://goo.gl/50faC5 ).
+Ou pode-se alterar o mesmo no XML alterando a mesma constante ROTATION_DEGREES.
+
+#### Como executar o slide do cartao programaticamente?
+
+Para fazer com que o cartão seja removido com a animacao programaticamente basta criar o seu Listener com o seguinte código ex:
+
+```
+    viewHolder.btnIgnore.setOnClickListener(new View.OnClickListener() {
+        @Override
+        public void onClick(View v) {
+            flingContainer.getTopCardListener().selectRight();
+        }
+    });
+```
+
+#### Onde está a constante da BASE-URL de carregamento das imagens?
+
+Essa contante é o prefixo ( Base Url ) para carregamento das imagens, está no arquivo SquipeCardFragment.java ( Veja arquivo: https://goo.gl/sIBxC4 ) linha 32.
+
+```
+    private static final Object API = "http://findme.meucomercioeletronico.com/";
+```
+
 
 ### Resultado final.
 
@@ -71,4 +102,4 @@ guilhermeborgesbastos@gmail.com
 
 ## Agredecimentos
 
-Fábio Dexter & Guilherme Mendes.
+com.nkdroid
