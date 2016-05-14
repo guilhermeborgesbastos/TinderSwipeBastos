@@ -15,7 +15,7 @@ Basta importar o projeto do Git para o seu editor ( Android Studio / Eclipse, et
 #### Populando os cartões ####
 No arquivo SquipeCardFragment ( Veja arquivo: https://goo.gl/sIBxC4 ), possuimos o seguinte código
 
->
+```
     //Populo o POJO com registros de teste ( Pode busca-los da sua API )
     recordSet = new ArrayList<>();
     
@@ -50,7 +50,7 @@ No arquivo SquipeCardFragment ( Veja arquivo: https://goo.gl/sIBxC4 ), possuimos
     notification4.setNome_cidade("Palo Alto");
     notification4.setNome_estado("CA");
     recordSet.add(notification4);
-<
+```
 
 ### Resultado final.
 
