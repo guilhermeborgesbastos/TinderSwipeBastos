@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\guilh\AndroidStudioProjects\TinderSwipeGBastos\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\guilh\AndroidStudioProjects\TinderSwipeGBastos\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_c4b58862650ca305808bf1260e61582dbefa012b.jar" />
+    </item>
+    <item
+        jar="C:\Users\guilh\AndroidStudioProjects\TinderSwipeGBastos\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\guilh\AndroidStudioProjects\TinderSwipeGBastos\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_c788d9c86f9090c7ab108bdcf8f29b65a0ceb944.jar" />
+    </item>
+    <item
+        jar="C:\Users\guilh\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\guilh\AndroidStudioProjects\TinderSwipeGBastos\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_0eea5eae518614290e358558fc20ecf49cb2ea27.jar" />
+    </item>
+    <item
+        jar="C:\Users\guilh\AndroidStudioProjects\TinderSwipeGBastos\app\build\intermediates\exploded-aar\com.mikhaellopez\circularimageview\3.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a8340f8c17337c864648c13abe1416d34c80ec14">
+        <dex dex="C:\Users\guilh\AndroidStudioProjects\TinderSwipeGBastos\app\build\intermediates\pre-dexed\debug\com.mikhaellopez-circularimageview-3.0.2_729ccc72f484f86ddb94c106ef174997173de86a.jar" />
+    </item>
+    <item
+        jar="C:\Users\guilh\AndroidStudioProjects\TinderSwipeGBastos\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\guilh\AndroidStudioProjects\TinderSwipeGBastos\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_ca8bed64757cc731aaa86a5a7b4401120c4a5e9d.jar" />
+    </item>
+    <item
+        jar="C:\Users\guilh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\guilh\AndroidStudioProjects\TinderSwipeGBastos\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_44975423261f76e7969c7622611305d2e3ebd527.jar" />
+    </item>
+    <item
+        jar="C:\Users\guilh\AndroidStudioProjects\TinderSwipeGBastos\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\guilh\AndroidStudioProjects\TinderSwipeGBastos\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_0341c90d4d999fc7865e10773a325cb78cbe24ea.jar" />
+    </item>
+    <item
+        jar="C:\Users\guilh\AndroidStudioProjects\TinderSwipeGBastos\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\guilh\AndroidStudioProjects\TinderSwipeGBastos\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_2a960f2e5e6d937de54c741eed4ec9ce80469542.jar" />
+    </item>
+
+</items>
