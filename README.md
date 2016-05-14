@@ -54,7 +54,7 @@ No arquivo SquipeCardFragment.java ( Veja arquivo: https://goo.gl/sIBxC4 ), poss
 O código acima popula um POJO, gerando uma List<Notification> recordSet, cada instancia nesta lista será um novo Card.
 
 
-#### Quais as dependencias do gradle?
+#### Quais as dependências do gradle?
 
 Para tratar a imagem utilizamos os:
 ```
