@@ -13,7 +13,7 @@ Basta importar o projeto do Git para o seu editor ( Android Studio / Eclipse, et
 ## Configurações e informações úteis ##
 
 #### Populando os cartões
-No arquivo SquipeCardFragment.java ( Veja arquivo: https://goo.gl/sIBxC4 ), possuimos o seguinte código:
+No arquivo SquipeCardFragment.java ( Veja arquivo: https://goo.gl/sIBxC4 ), possuímos o seguinte código:
 
 ```
     //Populo o POJO com registros de teste ( Pode busca-los da sua API )
