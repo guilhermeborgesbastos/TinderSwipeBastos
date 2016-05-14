@@ -52,8 +52,15 @@ No arquivo SquipeCardFragment ( Veja arquivo: https://goo.gl/sIBxC4 ), possuimos
     recordSet.add(notification4);
 ```
 
-O códgo acima popula um POJO, gerando uma List<Notification> recordSet, cada instancia nesta lista será um novo Card.
+O código acima popula um POJO, gerando uma List<Notification> recordSet, cada instancia nesta lista será um novo Card.
 
+#### Quais as dependencias do gradle?
+
+Para tratar a imagem utilizamos os:
+```
+    compile 'com.mikhaellopez:circularimageview:3.0.2'
+    compile 'com.squareup.picasso:picasso:2.5.2'
+```
 
 ### Resultado final.
 
