@@ -7,13 +7,13 @@ Componente completo para quem precisa de um baralho de cartas dinamico e interat
 | ![TinderSwipeBastos_animated](https://meucomercioeletronico.com/tutorial/TinderSwipeBastos_animated.gif)  | [![VIDEO](https://img.youtube.com/vi/r6qHrTARf2U/0.jpg)](https://www.youtube.com/watch?v=r6qHrTARf2U) |
   
 
-## Instalação e uso ##
+## Instalação e uso
 Basta importar o projeto do Git para o seu editor ( Android Studio / Eclipse, etc... )
 
 ## Configurações e informações úteis ##
 
-#### Populando os cartões ####
-No arquivo SquipeCardFragment ( Veja arquivo: https://goo.gl/sIBxC4 ), possuimos o seguinte código
+#### Populando os cartões
+No arquivo SquipeCardFragment ( Veja arquivo: https://goo.gl/sIBxC4 ), possuimos o seguinte código:
 
 ```
     //Populo o POJO com registros de teste ( Pode busca-los da sua API )
@@ -51,6 +51,9 @@ No arquivo SquipeCardFragment ( Veja arquivo: https://goo.gl/sIBxC4 ), possuimos
     notification4.setNome_estado("CA");
     recordSet.add(notification4);
 ```
+
+O códgo acima popula um POJO, gerando uma List<Notification> recordSet, cada instancia nesta lista será um novo Card.
+
 
 ### Resultado final.
 
