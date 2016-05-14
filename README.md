@@ -95,6 +95,7 @@ Essa contante é o prefixo ( Base Url ) para carregamento das imagens, está no 
 
 ### Conclusão
 
+Com este componente podemos fazer diversas aplicacoes, de forma fácil e rápida.
 Espero que tenha ajudado!
 
 Fico a disposição para tirar dúvidas:
