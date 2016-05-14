@@ -93,13 +93,17 @@ Essa contante é o prefixo ( Base Url ) para carregamento das imagens, está no 
 ```
 
 
-### Resultado final.
+### Conclusão
 
 Espero que tenha ajudado!
 
 Fico a disposição para tirar dúvidas:
 guilhermeborgesbastos@gmail.com
 
-## Agredecimentos
+## Agradecimentos
 
 com.nkdroid
+
+
+## Contato
+[![VIDEO](https://media.licdn.com/mpr/mpr/shrinknp_100_100/AAEAAQAAAAAAAAgiAAAAJGMwMTQwNTMyLTU2N2EtNDM1NS1iZDMxLTI2ZjVhZDRlNjM2Mw.jpg)](https://www.facebook.com/guilherme.borgesbastos)
