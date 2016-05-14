@@ -4,9 +4,7 @@ Componente completo para quem precisa de um baralho de cartas dinamico e interat
 
 | Gif | Video |
 | --- | --- |
-| ![TinderSwipeCard]( https://1e70b5b90e0dde1d7134632cc5b27bccf63d322f.googledrive.com/secure/ALrMiJiLTXug-DuQslKhm-oN15B0bZfKXfuzvD_wk9NUdT0JdNYCrPLpyaa5_3xknDOs4ETOAEm2B-3scO1YAPEWVpFRn9tXXB9GQ9GtFNJCk1vwCxUabY7a86-NkVfEkmHNfj3x5xfA2XO0NsBxmF-R2Qh4mTU5ym2HddbUDN4Bbya3VeRWEEzXAAUqGydPeXbEpgEpPELFwV8Fd4ZrMWmi0AHd6B1e0IrSuzBfkSrDpw1ysEsERI-uNpg5rJvb5Kp2c_pBGaN398X8UPNFNP3c3Pfc1QoQJ8Tawqf8v3iOQDqWVaj_0Sm7fjrT3VmsCqH5q--zq40jTt0Ls1n1fuMV3aSBSFcQQfZIZA3HYr4y4-EjWlM9ieRnkeoO9drOgANMhJejiUzyuW5A575lWAfGaDbY_oijd3BN0BWrcdV_jSv8YDiPDz5DhWseyMRIth53ULwG-tcssEkf4xQxqZ07rBShnW_Y3KlwjNS9_DQKM22DSwc7nJJsCuJuG_FrK_5VVDLnLSkbH-qNLbPFUM3WCbOPAl5F3NPTdoL1R8tXb-P7KY5PVYcf9ZoQ6_CNzkmb2pGRwIcVdr4SA_Ft0LlAb70-AUTfWrsmcQWwyIxsEF1LnGtU7cg=/host/0B-uFVwX98IjxaEYzSlZERjVLS3M/TinderSwipeBastos_animated.gif "TinderSwipeBastos_animated")  | [![VIDEO](https://img.youtube.com/vi/r6qHrTARf2U/0.jpg)](https://www.youtube.com/watch?v=r6qHrTARf2U) |
-
-  
+| ![TinderSwipeBastos_animated](https://meucomercioeletronico.com/tutorial/TinderSwipeBastos_animated.gif)  | [![VIDEO](https://img.youtube.com/vi/r6qHrTARf2U/0.jpg)](https://www.youtube.com/watch?v=r6qHrTARf2U) |
   
 
 # Georreferencimento com PHP e MySQL
